@@ -1,3 +1,6 @@
 - distill bert
 - different emebbdings
 - solve world hunger
+
+- remove all the y_train, y_val, y_test redundancy using il fottuto datasetdict che non sapevo esistesse e quindi ho fatto ctrl C ctrl V come un animale
+- aggiungere test dataset e retrainare bert
