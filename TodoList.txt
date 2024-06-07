@@ -1,4 +1,4 @@
-- distill bert
+- distill bert [DONE]
 - different emebbdings
 - solve world hunger
 
