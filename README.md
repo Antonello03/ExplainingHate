@@ -41,4 +41,4 @@ These are the trained Bi-directional RNN models. There are two `BirRNN.pth` file
 3. **Skip Training**: Skip the training sections in the notebook.
 4. **Loading and Testing**: Run the cells under "Loading and Testing" to test the models.
 5. **Multilabel Processing**: For the multilabel part, again skip only the training section and proceed with the rest.
-6. **BiRNN Models**: [Leave a placeholder here]
+6. **BiRNN Models**: Run all the section except the training subsection, and remove the "#" from the load models block to effectively load the pretrained model (probably # already removed)
