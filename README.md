@@ -2,7 +2,13 @@
 
 ## Overview
 
-Brief description of your project.
+Our project aims to accurately classify social media posts into categories of of-
+fensive, hate, or normal speech. Unlike typical toxicity detectors that only label
+comments as toxic or not, we have developed a model that differentiates between
+these three types of speech and identifies the specific communities targeted by
+the post.
+Disclaimer: The article contains material that many will find offensive or hate-
+ful; however, this cannot be avoided due to the nature of the project
 
 ## Installation Instructions
 
