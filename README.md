@@ -7,8 +7,8 @@ fensive, hate, or normal speech. Unlike typical toxicity detectors that only lab
 comments as toxic or not, we have developed a model that differentiates between
 these three types of speech and identifies the specific communities targeted by
 the post.
-Disclaimer: The article contains material that many will find offensive or hate-
-ful; however, this cannot be avoided due to the nature of the project
+Disclaimer: The article contains material that many will find offensive or hateful;
+however, this cannot be avoided due to the nature of the project
 
 ## Installation Instructions
 
